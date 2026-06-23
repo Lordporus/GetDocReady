@@ -1,0 +1,6 @@
+{
+  "name": "GetDocReady",
+  "description": "Compress PDF to 300KB, resize photo to 50KB, fix UPSC/SSC/visa document rejections with 100% offline tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
